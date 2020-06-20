@@ -1,3 +1,3 @@
 # cloud-devops-hello-world
-hello demo repo on cloud9, docker and aws
-#hello
+Hello world application demo repo on circleci, cloud9, docker and aws
+
